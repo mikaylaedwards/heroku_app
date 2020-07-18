@@ -1,6 +1,6 @@
-# Simple Flask app deployed on Heroku
+# Flask app deployed on Heroku
 
-This app takes input from the user and creates an interactive Bokeh graph using the specified input.
+This simple app takes input from the user and creates an interactive Bokeh graph using the specified input.
 
 
 [app](deployed_app.png)
